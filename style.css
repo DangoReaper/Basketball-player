@@ -1,0 +1,41 @@
+img {
+ width: 500px; 
+
+ border-radius: 100px;
+}
+
+
+body {
+
+text-align: center;
+
+background: linear-gradient(#0d0082 50%,#d16a0a 100%);
+
+
+} 
+
+
+
+
+p {
+
+border:solid 5px magenta ;
+font-size: 40px;
+
+color: lawngreen ;
+}
+
+
+
+
+
+
+
+
+h1 {
+
+
+color: aqua;
+font-size: 50px;
+
+}
