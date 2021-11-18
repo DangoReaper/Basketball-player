@@ -1,6 +1,6 @@
-img {
+#psa {
  width: 500px; 
-
+margin-top: 90px;
  border-radius: 100px;
 }
 
@@ -13,7 +13,58 @@ background: linear-gradient(#0d0082 50%,#d16a0a 100%);
 
 
 } 
+ .abc {
 
+font-size: 50px;
+ color: cyan;
+cursor: pointer; 
+width: 100%;
+position: absolute;
+margin-top: 0px;
+z-index: 123;
+
+
+
+
+
+}
+
+
+
+.def {
+padding-top: 5px ;
+display: inline;
+padding-bottom: 5px; 
+padding-left: 15px ; 
+padding-right: 15px;
+font-family: 'ZCOOL XiaoWei', serif;
+margin-top: 5px;
+margin-bottom: 5px; 
+margin-right: 5px; 
+margin-left:  5px;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#ABC {
+
+z-index: 6;
+
+
+}
 
 
 
